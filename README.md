@@ -10,7 +10,7 @@ is:
 
 4 Feb. - first Coq specifications of local alignment (Smith-Waterman) for DNA case (Done)
 
-10 Feb. - Ada code implementing Smith-Waterman alignment (non-optimized)
+10 Feb. - Ada code implementing Smith-Waterman alignment (non-optimized) (Done)
 
 17 Feb. - improved Coq specifications of local alignment
 
