@@ -12,11 +12,9 @@ is:
 
 10 Feb. - Ada code implementing Smith-Waterman alignment (non-optimized) (Done)
 
-17 Feb. - improved Coq specifications of local alignment
+24 Feb. - a simple program performing Smith-Waterman alignment in Coq, improved Coq specifications of local alignment
 
-24 Feb. - a simple verified program performing Smith-Waterman alignment in Coq
-
-1 March - Local alignment specifications and code examples implemented with SPARK and Ada
+3 March - Local alignment specifications and code examples implemented with SPARK and Ada
 
 To be announced ....
 
