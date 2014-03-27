@@ -8,13 +8,9 @@ The project's goals are inventing a new type of mathematics tailored for the nee
 A current schedule of updates and commits after refactoring and commenting the code
 is:
 
-4 Feb. - first Coq specifications of local alignment (Smith-Waterman) for DNA case (Done)
+The next update is scheduled to the end of March
 
-10 Feb. - Ada code implementing Smith-Waterman alignment (non-optimized) (Done)
-
-24 Feb. - a simple program performing Smith-Waterman alignment in Coq, improved Coq specifications of local alignment
-
-3 March - Local alignment specifications and code examples implemented with SPARK and Ada
+10 April - first manuscript reporting current status of the project
 
 To be announced ....
 
